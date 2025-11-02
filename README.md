@@ -1,5 +1,6 @@
  
 # 📱 Google Play Store App Reviews EDA
+![Python Logo](https://gagadget.com/media/post_big/what-is-google-play-hero_2.jpg)
 
 ## 📌 Project Overview
 
