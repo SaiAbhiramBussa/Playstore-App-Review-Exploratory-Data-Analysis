@@ -69,6 +69,8 @@ Last_Updated_Month
 
 
 Some interesting findings:
+
+
 1️⃣ Most apps are targeted for "Everyone" content rating, showing broad audience reach.
 
 2️⃣ Top categories like Family, Tools, and Communication dominate in app count, while Games lead in installs.
